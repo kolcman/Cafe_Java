@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cafe_Java</string>
+    <string name="welcome_textview">Добро пожаловать в Java Cafe!</string>
+    <string name="name_hint">Имя пользователя</string>
+    <string name="password_hint">Пароль</string>
+    <string name="sing_in_button">Войти</string>
+    <string name="logo_cafe_description">Logo Cafe JAVA</string>
+</resources>
