@@ -5,4 +5,26 @@
     <string name="password_hint">Пароль</string>
     <string name="sing_in_button">Войти</string>
     <string name="logo_cafe_description">Logo Cafe JAVA</string>
+    <string name="greetings_textview">Привет, %s! Что желаете?</string>
+    <string name="tea_radiobutton">Чай</string>
+    <string name="coffee_radiobutton">Кофе</string>
+    <string name="additives_textview">Что добавить в ваш %s?</string>
+    <string name="sugar_checkbox">Сахар</string>
+    <string name="milk_checkbox">Молоко</string>
+    <string name="lemon_checkbox">Лимон</string>
+    <string name="choose_drink_type_textview">Выберите тип напитка</string>
+    <string name="make_order_button">Сделать заказ</string>
+
+    <array name="types_of_tea">
+        <item>Зеленый</item>
+        <item>Белый</item>
+        <item>Черный</item>
+    </array>
+
+    <array name="types_of_coffee">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Раф</item>
+        <item>Латте</item>
+    </array>
 </resources>
