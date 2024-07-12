@@ -14,6 +14,10 @@
     <string name="lemon_checkbox">Лимон</string>
     <string name="choose_drink_type_textview">Выберите тип напитка</string>
     <string name="make_order_button">Сделать заказ</string>
+    <string name="name_textview">Имя:</string>
+    <string name="drink_textview">Напиток:</string>
+    <string name="type_drink_textview">Тип напитка:</string>
+    <string name="additives_label_textview">Добавки:</string>
 
     <array name="types_of_tea">
         <item>Зеленый</item>
