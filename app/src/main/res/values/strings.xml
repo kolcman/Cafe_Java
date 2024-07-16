@@ -18,6 +18,7 @@
     <string name="drink_textview">Напиток:</string>
     <string name="type_drink_textview">Тип напитка:</string>
     <string name="additives_label_textview">Добавки:</string>
+    <string name="error_fields_empty_toast">Пожалуйста, заполните все поля!</string>
 
     <array name="types_of_tea">
         <item>Зеленый</item>
